@@ -29,7 +29,7 @@ public class OrdenServiceImpl implements OrdenService {
     }
 
     @Override
-    public List<Orden> findByIdOrden(Long idOrden) {
-        return ordenRepository.findAllOrdenes(idOrden);
+    public List<Orden> findByIdLogin(Long idLogin) {
+        return ordenRepository.findAllOrdenes(idLogin);
     }
 }
