@@ -22,6 +22,7 @@
         <module>microservice-config</module>
         <module>microservice-ordenes</module>
         <module>microserver-login</module>
+        <module>microservice-pago</module>
     </modules>
 
     <properties>
