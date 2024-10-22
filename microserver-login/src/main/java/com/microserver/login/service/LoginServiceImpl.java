@@ -2,7 +2,6 @@ package com.microserver.login.service;
 
 import com.microserver.login.entities.Login;
 import com.microserver.login.persistence.LoginRepository;
-import com.microserver.login.service.ILoginService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
